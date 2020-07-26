@@ -5,4 +5,4 @@
 
 -->
 ![](https://media.giphy.com/media/DruBaWrcmXX5m/giphy.gif)
-[![ kulendu github stats](https://github-readme-stats.vercel.app/api?username=kulendu&count_private=true&show_icons=true )](https://github.com/kulendu/github-readme-stats)
+[![ kulendu github stats](https://github-readme-stats.vercel.app/api?username=kulendu&count_private=true&show_icons=true&theme=dark )](https://github.com/kulendu/github-readme-stats)
