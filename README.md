@@ -10,7 +10,7 @@
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kulendu&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
+```
 "Talk is cheap, show me the code"
-<br>
                         ~ Linus Torvalds
+```
