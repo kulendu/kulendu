@@ -13,4 +13,4 @@
 
 "Talk is cheap, show me the code"
 <br>
-                        - Linus Torvalds
+                        ~ Linus Torvalds
