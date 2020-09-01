@@ -6,7 +6,7 @@
 -->
 ![](https://media.giphy.com/media/2yyFSv9zNrR9XzZrbW/giphy.gif)
 <br>
-[![kulendu github stats](https://github-readme-stats.vercel.app/api?username=kulendu&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/kulendu/github-readme-stats)
+[![kulendu github stats](https://github-readme-stats.vercel.app/api?username=kulendu&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/kulendu/github-readme-stats) 
 <br>
 
 ```
