@@ -13,5 +13,3 @@
 "Talk is cheap, show me the code"
                         ~ Linus Torvalds
 ```
-
-![](https://media.giphy.com/media/Rzr6V9lPpSM8g/giphy.gif)
