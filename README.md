@@ -27,3 +27,6 @@
 <a href="https://mail.google.com/mail/u/1/#inbox">
   <img align="left" alt="kulendu's mailID" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
+<a href="https://dev.to/kulendu">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="库伦杜's DEV Profile" height="30" width="30">
+</a>
