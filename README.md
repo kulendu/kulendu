@@ -30,3 +30,8 @@
 <a href="https://dev.to/kulendu">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="库伦杜's DEV Profile" height="30" width="30">
 </a>
+
+<a href="https://dev.to/kulendu">
+  <i class="fab fa-dev" title="kulendu's DEV Profile"></i>
+</a>
+     
