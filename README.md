@@ -17,6 +17,7 @@
 ├─▣ DL-vision Research Enthusiast
 ├─▣ I am mostly active while working with Neural Nets.
 ├─▣ Currently working on nothing
+|
 └───────────────────────────────▰▰▰
 
 ┌──┤ SOCIAL ├─────────▰▰▰
