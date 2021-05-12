@@ -71,7 +71,7 @@
 </p>
 
 <p align='center'>
-  <img width="48%" src="https://user-images.githubusercontent.com/56751963/117874733-fcd0ba00-b2be-11eb-9887-15a7667c2a04.png" />
+  <img width="65%" src="https://user-images.githubusercontent.com/56751963/117874733-fcd0ba00-b2be-11eb-9887-15a7667c2a04.png" />
 </p>
 
 
