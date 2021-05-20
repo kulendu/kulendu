@@ -11,7 +11,7 @@
                          '-`  |_|     '-`  |_|     '-`  |_|
                         /mmm/        /mmm/        /mmm/
  -->
- 
+
  
                     ▄              ▄
                   ▌▒█           ▄▀▒▌
@@ -33,13 +33,14 @@
                 ▀▄▄▄▄▄▄▀▀▀▒▒▒▒▒▄▄▀
                    ▒▒▒▒▒▒▒▒▒▒▀▀
                    
-                   
+
+
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
 ├─▣ CSE Undergrad 
 ├─▣ DL-vision Research Enthusiast
 ├─▣ I am mostly active while working with Neural Nets.
-├─▣ Currently working on nothing
+├─▣ Currently working on Java
 |
 └───────────────────────────────▰▰▰
 
