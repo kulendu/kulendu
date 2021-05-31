@@ -35,12 +35,12 @@
                    
 
 
-┌──┤ WHOAMI ├─────────▰▰▰
+┌──┤ WHOAMI ? ├─────────▰▰▰
 │
 ├─▣ CSE Undergrad 
 ├─▣ DL-vision Research Enthusiast
 ├─▣ I am mostly active while working with Neural Nets.
-├─▣ Currently working on Java
+├─▣ Currently working on Java and learning $hell scripting
 |
 └───────────────────────────────▰▰▰
 
