@@ -53,9 +53,9 @@
 ┌──┤ DOMAINS ├───────▰▰▰
 │
 ├─◈ Python
-├─◈ Tensorflow
+├─◈ Tensorflow 
 ├─◈ OpenCV
-├─◈ tf.js
+├─◈ Java
 ├─◈ Javascript
 ├─◈ Vim
 │
