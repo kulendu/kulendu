@@ -1,4 +1,4 @@
-<pre>
+<!-- <pre> -->
 <!-- 
   ___   _      ___   _      ___   _      ___   _      ___   _
  [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|
@@ -82,3 +82,6 @@ Hi there 🐱‍💻, welcome to my GitHub profile! Taking about me I like to se
    <img width="65%" src="https://media.giphy.com/media/dhRRX9Vb4s839QFpop/giphy.gif" />
 </p>
 
+<p align='center'>
+   Check out my repos 👇
+</p>
