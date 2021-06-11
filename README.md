@@ -83,5 +83,14 @@
 </p>
 
 <p align='center'>
-   Check out my repos 👇
+   <img width="35%" src="https://media.giphy.com/media/xapwNHApzMj39X9Jqf/giphy.gif" />
+</p>
+
+
+<p align='center'>
+  Connect with me 📱 and checkout my repos 👇
+  <br>
+  <a href="mailto:imkulendu@gmail.com"> <img width="10%" src="https://media.giphy.com/media/jsjDgVl3momI/giphy.gif" /></a>
+  <a href="https://www.linkedin.com/in/kulenduchakraborty/"> <img width="10%" src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" /></a>
+  <a href="https://twitter.com/OfficialKulendu"> <img width="15%" src="https://media.giphy.com/media/MUic6gGA4OkwgsozUu/giphy.gif" /></a>
 </p>
