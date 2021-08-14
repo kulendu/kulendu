@@ -76,7 +76,7 @@
 
  -->
  
-**Hi there 🐱‍💻, welcome to my GitHub profile! Taking about me I like to see **Python 🐍** on my screen, and also make machines 🤖 think.**
+**Hi there 🐱‍💻, welcome to my GitHub profile! Taking about me I like to work with Python, and give machines the ability to predict the future.**
  
 <p align='center'>
    <img width="35%" src="https://media.giphy.com/media/dhRRX9Vb4s839QFpop/giphy.gif" />
