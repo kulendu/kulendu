@@ -87,12 +87,17 @@
 </p>
 
 
-#### What I majorly work on 🥸:
-<p>
-  ➜ My main research interests involves applied computational **Deep Learning** for **Computer Vision** and its application and also Linguistic optmization in **Natural Language Processing (NLP)**. 
-  ➜ I focus on exploring domains that involve excessive appilcations of problem solving with AI integrity in it, especially Deep Learning. Ocasionally I explore domains that are outside my major area of focus.
-</p>
+#### 🔵 What I majorly work on 🥸:
+
+➜ My main research interests involves applied computational **Deep Learning** for **Computer Vision** and its application and also Linguistic optmization in **Natural Language Processing (NLP)**. \
+\
+➜ I focus on exploring domains that involve excessive appilcations of problem solving with AI integrity in it, especially Deep Learning. Ocasionally I explore domains that are outside my major area of focus.
   
+#### 🔵 Academic Experiences: 
+
+➜ **Undergraduate Researcher (Intern) @ [Georgia State University, GA, US](https://www.gsu.edu/)**: \
+- 
+
   
   
 <p align='center'>
