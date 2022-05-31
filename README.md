@@ -76,7 +76,7 @@
 
  -->
  
-**Hi there 🐱‍💻, welcome to my GitHub profile! Taking about me I like to work with Python, and give machines the ability to predict the future.**
+**Hi there 🐱‍💻, welcome to my GitHub profile! Currently dating Python, and trying to give machines the ability to think and see   😉.**
  
 <p align='center'>
    <img width="35%" src="https://media.giphy.com/media/dhRRX9Vb4s839QFpop/giphy.gif" />
@@ -87,6 +87,14 @@
 </p>
 
 
+#### What I majorly work on 🥸:
+<p>
+  ➜ My main research interests involves applied computational **Deep Learning** for **Computer Vision** and its application and also Linguistic optmization in **Natural Language Processing (NLP)**. 
+  ➜ I focus on exploring domains that involve excessive appilcations of problem solving with AI integrity in it, especially Deep Learning. Ocasionally I explore domains that are outside my major area of focus.
+</p>
+  
+  
+  
 <p align='center'>
   Connect with me ⛄ and checkout my repos 👇.
   <br>
