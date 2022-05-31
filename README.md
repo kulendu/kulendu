@@ -76,7 +76,7 @@
 
  -->
  
-**Hi there 🐱‍💻, welcome to my GitHub profile! Currently dating Python, and trying to give machines the ability to think and see   😉.**
+**Hi there 🐱‍💻, welcome to my GitHub profile! Currently dating Python, and trying to give machines the ability to think and see 😉.**
  
 <p align='center'>
    <img width="35%" src="https://media.giphy.com/media/dhRRX9Vb4s839QFpop/giphy.gif" />
