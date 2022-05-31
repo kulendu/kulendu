@@ -93,10 +93,13 @@
 \
 ➜ I focus on exploring domains that involve excessive appilcations of problem solving with AI integrity in it, especially Deep Learning. Ocasionally I explore domains that are outside my major area of focus.
   
-#### 🔵 Academic Experiences: 
+#### 🔵 Currently working on  🚀: 
 
-➜ **Undergraduate Researcher (Intern) @ [Georgia State University, GA, US](https://www.gsu.edu/)**: \
-- 
+➜ Working as **Undergraduate Researcher (Intern) @ [Georgia State University, GA, US](https://www.gsu.edu/)** ~ (Jan 2022 - Present): 
+- Engaged on works that involves integration of AI for social good and social media, and often analysing human behaviour on frontline social sources. 
+- Supervised by [Dr. Ugur Kursuncu](http://www.ugurkursuncu.com/).
+
+
 
   
   
@@ -106,4 +109,6 @@
   <a href="mailto:imkulendu@gmail.com"> <img width="10%" src="https://media.giphy.com/media/jsjDgVl3momI/giphy.gif" /></a>
   <a href="https://www.linkedin.com/in/kulenduchakraborty/"> <img width="10%" src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" /></a>
   <a href="https://twitter.com/OfficialKulendu"> <img width="15%" src="https://media.giphy.com/media/MUic6gGA4OkwgsozUu/giphy.gif" /></a>
+  
+  *My inbox is open to any sort of talks (projects, my ongoing work, any informal talks, hangouts, ...), hoping to hang with you there!*  😉 
 </p>
