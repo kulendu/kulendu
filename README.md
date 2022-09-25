@@ -76,14 +76,16 @@
 
  -->
  
+ 
+ 
 **Hi there 🐱‍💻, welcome to my GitHub profile! Currently dating Python, and trying to give machines the ability to think and see 😉.**
 
 <div align='center'>
   <a href='https://kulendu.github.io'>kulendu [at] github [dot] io</a>
 </div>
- 
+ <br>
 <p align='center'>
-   <img width="35%" src="https://media.giphy.com/media/dhRRX9Vb4s839QFpop/giphy.gif" />
+   <img width="50%" src="https://wallpaperaccess.com/full/3001.jpg" />
 </p>
 
 <p align='center'>
@@ -99,9 +101,8 @@
   
 #### 🔵 Currently working on  🚀: 
 
-➜ Working as **Undergraduate Researcher (Intern) @ [Georgia State University, GA, US](https://www.gsu.edu/)** ~ (Jan 2022 - Present): 
-- Engaged on works that involves integration of AI for social good and social media, and often analysing human behaviour on frontline social sources. 
-- Supervised by [Dr. Ugur Kursuncu](http://www.ugurkursuncu.com/).
+➜ Analytical NLP, precisely NLP ∩ Social Security ∩ HCI \
+➜ Trying to reconstruct 3D scenes from static multi-view images (3D vision)
 
 
 
