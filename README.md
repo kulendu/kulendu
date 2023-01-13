@@ -78,7 +78,7 @@
  
  
  
-**Hi there 🐱‍💻, welcome to my GitHub profile! Currently dating Python, and trying to give machines the ability to think and see 😉.**
+**Hi there 🐱‍💻, welcome to my GitHub profile! Currently dating Python and flirting with PyTorch, and trying to give machines the ability to think and see 😉.**
 
 <div align='center'>
   <a href='https://kulendu.github.io'>kulendu [at] github [dot] io</a>
