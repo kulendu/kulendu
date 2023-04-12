@@ -92,7 +92,7 @@
    <img width="35%" src="https://media.giphy.com/media/xapwNHApzMj39X9Jqf/giphy.gif" />
 </p>
 
-
+<!-- 
 #### 🔵 What I majorly work on 🥸:
 
 ➜ My main research interests involves applied computational **Deep Learning** for **Computer Vision** and its application and also Linguistic optmization in **Natural Language Processing (NLP)**. \
@@ -102,7 +102,7 @@
 #### 🔵 Currently working on  🚀: 
 
 ➜ Analytical NLP, precisely NLP ∩ Social Security ∩ HCI \
-➜ Trying to reconstruct 3D scenes from static multi-view images (3D vision)
+➜ Trying to reconstruct 3D scenes from static multi-view images (3D vision) -->
 
 
 
